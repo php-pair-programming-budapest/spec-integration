@@ -1,0 +1,5 @@
+suites:
+    phpspec_suite:
+        namespace: PPP\Phpspec
+        psr4_prefix: PPP\Phpspec
+formatter.name: pretty
